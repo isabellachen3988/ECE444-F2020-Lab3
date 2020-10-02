@@ -1,11 +1,12 @@
 # Isabella Chen
 this repo is a clone of https://github.com/miguelgrinberg/flasky
 
-Activity 1: Replay and modify example in Chapter 3
+Activity 1: Replay and modify example in Chapter 3, corresponding commit: [9f48e3ef5680d44676bdbfb40443d018fa889dd0](https://github.com/isabellachen3988/ECE444-F2020-Lab3/commit/9f48e3ef5680d44676bdbfb40443d018fa889dd0)
 
 ![activity1](./activity1.png)
 
-Activity 2: Replay and modify example in Chapter 4
+Activity 2: Replay and modify example in Chapter 4, corresponding commit: [5af6a550174868d99f34d98335c06bd487ad9795](https://github.com/isabellachen3988/ECE444-F2020-Lab3/commit/5af6a550174868d99f34d98335c06bd487ad9795)
+
 
 ![activity2part1](./activity2part1.png)
 ![activity2part2](./activity2part2.png)
